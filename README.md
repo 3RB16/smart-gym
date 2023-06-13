@@ -42,7 +42,7 @@ system can be used at home, outdoors, or at the gym.`
 
 </br>
 
--   Muhammad Hassan `Data scientist`
+-   Muhammad El-Qappaney `Data scientist`
 -   Alaa Elmohamadey `Data scientist`
 -   Muhammad Hussien `Software engineer`
 -   Ahmed Alaa `Software engineer`
