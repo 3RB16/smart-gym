@@ -30,7 +30,7 @@ Artificial intelligence technology has made its way absolutely necessary in a va
 the fitness industry. Human pose estimation is one of the important researches in the field of Computer 
 Vision for the last few years. In this project, pose estimation and deep machine learning techniques are 
 combined to analyze the performance and report feedback on the repetitions of performed exercises in real 
-time. Involving machine learning technology in the fitnessindustry could help the judges to count repetitions 
+time. Involving machine learning technology in the fitness industry could help the judges to count repetitions 
 of any exercise during Weightlifting or CrossFit competitions.
 The trainee cannot perform the exercises alone without the guidance and follow-up of the trainer so that he 
 does not injure himself by mistake while doing exercises.
